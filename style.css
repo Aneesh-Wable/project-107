@@ -1,0 +1,42 @@
+body
+{
+    background-color: #3f8280;
+    font-family: sans-serif;
+}
+
+.header_div
+{
+    background-color: #8cb4b3;
+    color: black;
+}
+
+.header_div p
+{
+font-family: sans-serif;
+color:black;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    width: 130px;
+}
+
+.copyright_footer
+{
+    position: fixed;
+    color:rgb(210, 252, 203);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #3f8280;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #a6ebe9;
+}
